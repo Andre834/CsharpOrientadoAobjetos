@@ -1,0 +1,15 @@
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.csproj.AssemblyReference.cache
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfoInputs.cache
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfo.cs
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.csproj.CoreCompileInputs.cache
+D:\Desktop\cursoC#\02Métodos\bin\Debug\net6.0\02Métodos.exe
+D:\Desktop\cursoC#\02Métodos\bin\Debug\net6.0\02Métodos.deps.json
+D:\Desktop\cursoC#\02Métodos\bin\Debug\net6.0\02Métodos.runtimeconfig.json
+D:\Desktop\cursoC#\02Métodos\bin\Debug\net6.0\02Métodos.dll
+D:\Desktop\cursoC#\02Métodos\bin\Debug\net6.0\ref\02Métodos.dll
+D:\Desktop\cursoC#\02Métodos\bin\Debug\net6.0\02Métodos.pdb
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.dll
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\ref\02Métodos.dll
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.pdb
+D:\Desktop\cursoC#\02Métodos\obj\Debug\net6.0\02Métodos.genruntimeconfig.cache
