@@ -3,24 +3,24 @@ using System;
 class Pessoa
 {
     // Método 01
-    public void apresentar()
+    public void apresentar(string nome, int idade)
     {
-        Console.WriteLine("ola");
+        Console.WriteLine("ola! "  +nome+  " voce tem " +idade+ " anos");
     }
 
     
     // Método 02
-        public void apresentar(string nome)
-    {
+        //public void apresentar(string nome)
+    //{
         
-        Console.WriteLine("Olá!! " +nome);
-    }
+      //  Console.WriteLine("Olá!! " +nome);
+    //}
 
     
     // Método 03    
-    public void apresentar(string nome, int idade)
-    {
+    //public void apresentar(string nome, int idade)
+    //{
         
-        Console.WriteLine("Olá!! " +nome+  "voce tem " +idade+ " anos");
-    }
+      //  Console.WriteLine("Olá!! " +nome+  "voce tem " +idade+ " anos");
+    //}
 }
