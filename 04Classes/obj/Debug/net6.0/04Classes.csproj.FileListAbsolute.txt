@@ -1,0 +1,15 @@
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.csproj.AssemblyReference.cache
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.AssemblyInfoInputs.cache
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.AssemblyInfo.cs
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.csproj.CoreCompileInputs.cache
+D:\Desktop\cursoC#\04Classes\bin\Debug\net6.0\04Classes.exe
+D:\Desktop\cursoC#\04Classes\bin\Debug\net6.0\04Classes.deps.json
+D:\Desktop\cursoC#\04Classes\bin\Debug\net6.0\04Classes.runtimeconfig.json
+D:\Desktop\cursoC#\04Classes\bin\Debug\net6.0\04Classes.dll
+D:\Desktop\cursoC#\04Classes\bin\Debug\net6.0\ref\04Classes.dll
+D:\Desktop\cursoC#\04Classes\bin\Debug\net6.0\04Classes.pdb
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.dll
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\ref\04Classes.dll
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.pdb
+D:\Desktop\cursoC#\04Classes\obj\Debug\net6.0\04Classes.genruntimeconfig.cache
